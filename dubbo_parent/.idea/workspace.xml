@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8476f95-163f-4354-a1af-28c5b22acf13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="userSettingsFile" value="F:\eclipse\1806ax1\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ogsyh59qGbOx2wHar0Y2lBRRHR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo_shop_web/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xsl.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\eclipse\1806ax1\workspace_ideatwo\dubbo_parent\dubbo_shop_web\src\main\resources" />
+      <recent name="F:\eclipse\1806ax1\workspace_ideatwo\dubbo_parent\dubbo_shop_web\src\main\webapp" />
+      <recent name="F:\eclipse\1806ax1\workspace_ideatwo\dubbo_parent\dubbo_shop_service\src\main\resources" />
+      <recent name="F:\eclipse\1806ax1\workspace_ideatwo\dubbo_parent\dubbo_shop_service\src\main\webapp\WEB-INF" />
+      <recent name="F:\eclipse\1806ax1\workspace_ideatwo\dubbo_parent\dubbo_dao\src\main\resources\com\xsl\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.dubbo_shop_web [tomcat7:run]">
+    <configuration name="dubbo_shop_service [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/dubbo_shop_service" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="dubbo_shop_web [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/dubbo_shop_web" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Maven.dubbo_shop_service [tomcat7:run]" />
+      <item itemvalue="Maven.dubbo_shop_web [tomcat7:run]" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8476f95-163f-4354-a1af-28c5b22acf13" name="Default Changelist" comment="" />
+      <created>1613719823311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613719823311</updated>
+      <workItem from="1613719826713" duration="6420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="916" y="212" key="#Project_Structure" timestamp="1613725652445">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="916" y="212" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1613725652445" />
+    <state x="504" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613724222111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="504" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613724222111" />
+    <state x="1239" y="300" key="#com.intellij.ide.util.MemberChooser" timestamp="1613722883302">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1239" y="300" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613722883302" />
+    <state x="1038" y="317" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613723685986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1038" y="317" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613723685986" />
+    <state x="1008" y="280" key="FileChooserDialogImpl" timestamp="1613719853439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1008" y="280" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613719853439" />
+    <state width="1675" height="182" key="GridCell.Tab.0.bottom" timestamp="1613726089398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089398" />
+    <state width="1675" height="182" key="GridCell.Tab.0.center" timestamp="1613726089398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089398" />
+    <state width="1675" height="182" key="GridCell.Tab.0.left" timestamp="1613726089398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089398" />
+    <state width="1675" height="182" key="GridCell.Tab.0.right" timestamp="1613726089398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089398" />
+    <state width="1675" height="182" key="GridCell.Tab.1.bottom" timestamp="1613726089399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089399" />
+    <state width="1675" height="182" key="GridCell.Tab.1.center" timestamp="1613726089399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089399" />
+    <state width="1675" height="182" key="GridCell.Tab.1.left" timestamp="1613726089398">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089398" />
+    <state width="1675" height="182" key="GridCell.Tab.1.right" timestamp="1613726089399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1675" height="182" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1613726089399" />
+    <state x="678" y="253" width="759" height="548" key="find.popup" timestamp="1613724403198">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="678" y="253" width="759" height="548" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613724403198" />
+    <state x="603" y="225" key="new project wizard" timestamp="1613723427120">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="603" y="225" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1613723427120" />
+  </component>
+</project>
